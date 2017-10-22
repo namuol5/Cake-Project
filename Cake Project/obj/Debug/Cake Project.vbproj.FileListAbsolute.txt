@@ -1,0 +1,11 @@
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\bin\Debug\Cake Shoppe.exe.config
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\bin\Debug\Cake Shoppe.exe
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\bin\Debug\Cake Shoppe.pdb
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\bin\Debug\Cake Shoppe.xml
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake Project.vbprojResolveAssemblyReference.cache
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake_Project.MainForm.resources
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake_Project.Resources.resources
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake Project.vbproj.GenerateResource.Cache
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake Shoppe.exe
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake Shoppe.xml
+X:\Download\VB files\Chap01\Cake Solution\Cake Project\obj\Debug\Cake Shoppe.pdb
